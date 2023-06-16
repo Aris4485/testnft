@@ -1,0 +1,2 @@
+# testnft
+test deploy nft
